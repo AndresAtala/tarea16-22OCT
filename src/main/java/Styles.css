@@ -1,0 +1,55 @@
+/* styles.css */
+
+/* Estilos para el encabezado */
+header {
+    text-align: center;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilos para la sección "Sobre mí" */
+#about {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+/* Estilos para la sección "Intereses" */
+#interests {
+    background-color: lightyellow;
+    padding: 20px;
+}
+
+#interests ul {
+    list-style-type: disc;
+}
+
+/* Estilos para la sección "Experiencia" */
+#experience {
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+#experience ul {
+    list-style-type: circle;
+}
+/* Estilos para la sección "Habilidades" */
+#skills {
+    background-color: lightcoral;
+    padding: 20px;
+}
+
+#skills ul {
+    list-style-type: square;
+}
+
+
+/* Estilos para el pie de página */
+footer {
+    text-align: center;
+    background-color: lightgray;
+    padding: 10px;
+}
